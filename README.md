@@ -1,6 +1,4 @@
-##Hello, I'm Leonard.
-
-🔗 For more information, please visit my website: https://scarmo.wtf
+**✨ Hello, I'm Leonard. For more information about me, please visit my website (https://scarmo.wtf).**
 
 <!--
 **RealScarmo/RealScarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
